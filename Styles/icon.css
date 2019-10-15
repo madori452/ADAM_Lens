@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?dipqro');
+  src:  url('fonts/icomoon.eot?dipqro#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dipqro') format('truetype'),
+    url('fonts/icomoon.woff?dipqro') format('woff'),
+    url('fonts/icomoon.svg?dipqro#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-years:before {
+  content: "\e900";
+  color: #b11d25;
+}
+.icon-home:before {
+  content: "\e944";
+  color: #f00;
+}
+.icon-x:before {
+  content: "\e901";
+  color: #e2cab5;
+}
+.icon-W:before {
+  content: "\e902";
+  color: #009245;
+}
+.icon-airplane:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-lasting:before {
+  content: "\e948";
+  color: #999;
+}
+.icon-office:before {
+  content: "\e94a";
+  color: #fff;
+}
+.icon-support:before {
+  content: "\e954";
+  color: #b11d25;
+}
