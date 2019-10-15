@@ -1114,12 +1114,7 @@ img.p13-1{
 }
 
 @media screen and (max-width: 1440px){
-	.productBg01 {
-	    padding: 200px 0px 700px 0px;
-	    background-image: url(../Images/lens/lenspro-banner-mavic-1440.png);
-	    -webkit-background-size: cover;
-	    background-size: cover;
-	}
+
 
 	.productBg04 {
 	    padding: 170px 100px 500px 100px;
